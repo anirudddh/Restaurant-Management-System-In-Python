@@ -3,7 +3,7 @@
 
 ### Screenshot - 
 
-![ATM program](https://github.com/anirudddh/Bank-Management-System-Project-in-Python/blob/1bd13049b2ea1953f535aa78817df68748a08bdf/Screenshot.jpg)
+![ATM program](https://github.com/anirudddh/Restaurant-Management-System-In-Python/blob/0345b5d6be51adc01310469c898c4ca217e30a5d/Screenshot.jpg)
 
 ### Video Demo - https://youtu.be/ 
 
